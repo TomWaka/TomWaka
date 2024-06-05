@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomWaka&layout=compact&theme=dracula" alt="GitHub Contributions" style="height: 160px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomWaka&layout=compact&theme=dracula&card_width=400" alt="Top Languages" style="height: 160px;" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomWaka&layout=compact&theme=dracula" alt="GitHub Contributions" style="height: 100px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomWaka&layout=compact&theme=dracula&card_width=400" alt="Top Languages" style="height: 100px;" />
 </p>
 
