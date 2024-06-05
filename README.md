@@ -10,6 +10,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomWaka&layout=compact&theme=dracula" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TomWaka&layout=compact&theme=dracula" alt="GitHub Contributions" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomWaka&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
