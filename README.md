@@ -1,4 +1,4 @@
-## Hello, I'm Tomoya Wakayama.
+# Hello, I'm Tomoya Wakayama.
 
 <p align="left">
   <a href="https://github.com/TomWaka">
