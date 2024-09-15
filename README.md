@@ -3,10 +3,10 @@
   <a href="https://github.com/TomWaka">
     <img src="https://komarev.com/ghpvc/?username=TomWaka" alt="Profile views" />
   </a>
-  <a href="https://scholar.google.com/citations?user=qLFVWB0AAAAJ">
+  <a href="https://scholar.google.com/citations?user=qLFVWB0AAAAJ&hl=ja">
     <img height="20" src="https://img.shields.io/badge/Google%20Scholar-Click%20Here-blue" alt="Google Scholar" />
   </a>
-  <a href="https://x.com/YourXHandle">
+  <a href="https://twitter.com/10m8mkW">
     <img height="20" src="https://img.shields.io/badge/X-Follow-000000?logo=x" alt="X (Twitter) Follow" />
   </a>
 </p>
