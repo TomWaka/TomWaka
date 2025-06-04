@@ -3,7 +3,7 @@
   <a href="https://github.com/TomWaka">
     <img src="https://komarev.com/ghpvc/?username=TomWaka" alt="Profile views" />
   </a>
-  <a href="https://scholar.google.com/citations?user=qLFVWB0AAAAJ&hl=ja">
+  <a href="https://scholar.google.com/citations?user=2C30Kn8AAAAJ&hl=ja">
     <img height="20" src="https://img.shields.io/badge/Google%20Scholar-Click%20Here-blue" alt="Google Scholar" />
   </a>
   <a href="https://twitter.com/10m8mkW">
